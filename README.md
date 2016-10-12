@@ -1,0 +1,4 @@
+## Tests
+```
+vendor/bin/phpunit 
+```

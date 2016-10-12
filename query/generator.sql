@@ -40,4 +40,4 @@ CREATE PROCEDURE `genetaror` (IN genCount INT)
 
 DELIMITER ;
 
-CALL genetaror(10000000);
+CALL genetaror(1000000);
