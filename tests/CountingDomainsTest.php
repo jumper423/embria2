@@ -22,6 +22,7 @@ class CountingDomainsTest extends PHPUnit_Framework_TestCase
     {
         $this->assertEquals(['ff.ru' => 1], $instance->get());
     }
+
     public function testInstance2()
     {
         $db = new class {
