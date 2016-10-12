@@ -1,3 +1,7 @@
+Embria2
+=======
+[![Build Status](https://travis-ci.org/jumper423/embria2.svg?branch=master)](https://travis-ci.org/jumper423/embria2)
+
 ## Install
 
 Run sql files
